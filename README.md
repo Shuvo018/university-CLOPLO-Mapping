@@ -1,4 +1,4 @@
-# university-CLOPLO-Mapping
+# University-CLOPLO-Mapping
 
 ## 🚀 Project overview
 This website is built for university teachers. After entering students' marks, the teacher can view the students' CLO-PLO results.
