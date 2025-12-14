@@ -1,7 +1,7 @@
 # University-CLOPLO-Mapping
 
 ## 🚀 Project overview
-This website is built for university teachers. After entering students' marks, the teacher can view the students' CLO-PLO results.
+This website was designed for university teachers. After entering students' marks, teachers can view the students' CLO-PLO results.
 ## 🛠️ Tools
 HTML, CSS, Javascript, AJAX, PHP, MySQL
 
